@@ -11,32 +11,32 @@ Below are the obtained results.
 
 __Trial-1__
 
-<img src="/workspaces/potato-leaf-disease-CNN/trial Results/tial-1.png" alt="Image" width="400" height="200">
+<img src=https://github.com/prashanth-githubuser/potato-leaf-disease-CNN/blob/main/trial%20Results/tial-1.png alt="Image" width="400" height="200">
 
 The model is started to overfit
 --- 
 
 __Trial-2__
 
-<img src="/workspaces/potato-leaf-disease-CNN/trial Results/trial-2.png" alt="Image" width="400" height="200">
+<img src=https://github.com/prashanth-githubuser/potato-leaf-disease-CNN/blob/main/trial%20Results/trial-2.png alt="Image" width="400" height="200">
 
 Model's validation loss is started to reduce after changing LR of adam optimizer 
 ---
 
 __Trial-3__ : 
 
-<img src="/workspaces/potato-leaf-disease-CNN/trial Results/trial-3.png" alt="Image" width="400" height="200">
+<img src=https://github.com/prashanth-githubuser/potato-leaf-disease-CNN/blob/main/trial%20Results/trial-3.png alt="Image" width="400" height="200">
 
 After setting the optimizer learning rate and L2 values the Validation loss and model validaion accuracy is getting to optimum values 
 --- 
 
 Testing:
 
-<img src="/workspaces/potato-leaf-disease-CNN/trial Results/Result -1.png" alt="Image" width="400" height="200">
+<img src=https://github.com/prashanth-githubuser/potato-leaf-disease-CNN/blob/main/trial%20Results/Result%20-1.png alt="Image" width="400" height="200">
 
 Model performing well but predecting Healthy as Late_blight, This is due to very less Healthy label data points.
 
-<img src="/workspaces/potato-leaf-disease-CNN/trial Results/Reslut-2.png" alt="Image" width="400" height="200">
+<img src=https://github.com/prashanth-githubuser/potato-leaf-disease-CNN/blob/main/trial%20Results/Reslut-2.png alt="Image" width="400" height="200">
 
-<img src="/workspaces/potato-leaf-disease-CNN/trial Results/Result-3.png" alt="Image" width="400" height="200">
+<img src= https://github.com/prashanth-githubuser/potato-leaf-disease-CNN/blob/main/trial%20Results/Result-4.png alt="Image" width="400" height="200">
 
